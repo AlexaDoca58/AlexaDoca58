@@ -149,24 +149,15 @@ const Perfil = {
 
 ---
 <div align="center">
-
-### 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-</picture>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FF00E5&center=true&vCenter=true&width=650&lines=Nunca+Pierdas+Tu+Determinacion." />
+</div>
 </div>
 
 ---
-
-<div align="center">
-  
-![Visitantes](https://visitcount.itsvg.in/api?id=AlexaDoca58&icon=5&color=0)
+<p align="center">
+  ❤️ hp: ███████░░░ 70%  
+  ⚡ exp: █████████░ 90%  
+  ☕ cafe: ████████░░ 80%
+</p>
 
 </div>
