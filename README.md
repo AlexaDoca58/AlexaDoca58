@@ -9,26 +9,28 @@
 
 ## 🚀 Sobre Mí
 
-</div>
-
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
 ```javascript
 const Perfil = {
-  Nombre: "Alexa Dominguez C.",
-  Ubicacion: "Tabasco 🇲🇽",
-  Carrera: "Ing. en Sistemas",
-  Especialidad: "Data Science",
-  Educacion: {
-    Uni: "ITS Comalcalco",
-    Periodo: "2022-2027"
-  },
-  Pasatiempos: [
-    "💻 Tecnología", "🎮 Gaming",
-    "🎵 Música", "📚 Aprender"
-  ]
+    Nombre: "Alexa Dominguez Castellanos",
+    Ubicacion: "Comalcalco, Tabasco 🇲🇽",
+    Carrera: "Ingeniería en Sistemas Computacionales",
+    Especialidad: "Inteligencia de Negocio y Ciencia de Datos",
+    
+    Educacion: {
+        Universidad: "Tec Superior de Comalcalco",
+        Año: "2022-2027"
+    },
+
+    pasatiempos: [
+        "💻 Descubrir Nuevas Tecnologías",
+        "🎮 Jugar Videojuegos", 
+        "🎵 Escuchar Música",
+        "📚 Aprender Nuevas Cosas"
+    ],
 };
 ```
 
