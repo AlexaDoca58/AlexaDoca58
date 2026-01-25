@@ -1,16 +1,172 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://github.com/AlexaDoca58/AlexaDoca58/blob/main/undertale_text_box_undertale-flowey_wink_1769366216211.gif" width="800">
+</p>
+</div>
 
-<!--
-**AlexaDoca58/AlexaDoca58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  
+## 🚀 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```javascript
+const Perfil = {
+    Nombre: "Alexa Dominguez Castellanos",
+    Ubicacion: "Comalcalco, Tabasco 🇲🇽",
+    Carrera: "Ingeniería en Sistemas Computacionales",
+    Especialidad: "Inteligencia de Negocio y Ciencia de Datos",
+    
+    Educacion: {
+        Universidad: "Instituto Tecnologico Superior de Comalcalco",
+        Año: "2022-2027"
+    },
+
+    pasatiempos: [
+        "💻 Descubrir Nuevas Tecnologías",
+        "🎮 Jugar Videojuegos", 
+        "🎵 Escuchar Música",
+        "📚 Aprender Nuevas Cosas"
+    ],
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://media.tenor.com/5Y-Hk9rkbw8AAAAC/deltarune.gif" width="400" alt="Coding"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexaDoca58&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" width="95%"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  
+## ⚡ Tech Stack
+
+</div>
+
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+### ⚙️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,mysql,postgres" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+  
+## 📊 GitHub Analytics
+
+</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexaDoca58&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexaDoca58&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=FF00E5&currStreakLabel=00D9FF"/>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexaDoca58&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7000FF&point=FF00E5" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+  
+## 🏆 Proyectos Destacados
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<br>
+
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=Sistemas-Empanadas&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/Sistemas-Empanadas)
+
+</td>
+<td width="50%">
+<br>
+
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=Sistema-de-Farmacia&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/sistema-de-farmacia)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<br>
+
+[![Proyecto 3](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=Fotos-Galeria&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/fotos-Galeria)
+
+</td>
+<td width="50%">
+<br>
+
+[![Proyecto 4](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=musicunder.github.io&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/musicunder.github.io)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Encuéntrame en
+
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alexa-dominguez-castellanos/badges#credly)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexadominguez049@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexaDoca58)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/9rJApLBDkEyOUJzl0Cuvqo/Sin-t%C3%ADtulo?m=auto&t=YRsQRFpvmy7qmG3U-1)
+
+</div>
+
+---
+<div align="center">
+
+### 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitantes](https://visitcount.itsvg.in/api?id=AlexaDoca58&icon=5&color=0)
+
+</div>
