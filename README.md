@@ -95,30 +95,31 @@ const Perfil = {
 ---
 <div align="center">
   
-## 🏆 Inventario de Insignias (Certificaciones)
+## 🏆 Inventario de Insignias
+
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60" title="Microsoft Azure AI-900"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" title="Google Cloud Computing Foundations"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" title="Set Up App Dev Env"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" title="Prepare Data for ML"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" title="Load Balancing & Networking">
+
+<br><br>
+
+<img src="https://www.vectorlogo.zone/logos/meta/meta-icon.svg" width="60" title="Meta Mobile Development"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="60" title="IBM Data Fundamentals"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-icon.svg" width="60" title="LFS162: DevOps & SRE Foundations"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="60" title="Industrial Networking Essentials"> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Banco_Santander_Logotipo.svg" width="100" title="Beca Santander She Plus Tech">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" width="60" title="C++ Programming"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60" title="Java Development"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" title="Python Expert"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60" title="React - Educación Dual ITMX"> &nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60" title="SQL & Databases">
 
 </div>
-
-<div align="center">
-
-| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> |
-| :---: | :---: | :---: | :---: |
-| **Cloud Computing Foundations**<br>Google Cloud | **Set Up App Dev Env**<br>Google Cloud | **Prepare Data for ML**<br>Google Cloud | **Load Balancing on CE**<br>Google Cloud |
-
-| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/256px-IBM_logo.svg.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/256px-Meta_Platforms_Inc._logo.svg.png" width="70"> |
-| :---: | :---: | :---: | :---: |
-| **Secure Cloud Network**<br>Google Cloud | **Azure AI-900**<br>Microsoft | **Intro Mobile App Dev**<br>Coursera / IBM | **Intro Mobile Dev**<br>Coursera / Meta |
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/256px-IBM_logo.svg.png" width="70"> | <img src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Banco_Santander_Logotipo.svg/512px-Banco_Santander_Logotipo.svg.png" width="70"> |
-| :---: | :---: | :---: | :---: |
-| **Data Fundamentals**<br>IBM SkillsBuild | **LFS162: Intro DevOps**<br>Linux Foundation | **Industrial Networking**<br>Cisco | **She Plus Tech**<br>Beca Santander |
-
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70"> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="70"> |
-| :---: | :---: | :---: | :---: |
-| **Python **<br>HackerRank | **SQL **<br>HackerRank | **CSS **<br>HackerRank | **Educación Dual**<br>ITMX / ITSC |
-
-</div>
-
 ---
 
 <div align="center">
