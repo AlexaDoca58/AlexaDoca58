@@ -92,45 +92,33 @@ const Perfil = {
 </div>
 
 ---
+---
 
 <div align="center">
   
-## 🏆 Proyectos Destacados
+## 📜 Certificaciones & Logros
 
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<br>
 
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=Sistemas-Empanadas&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/Sistemas-Empanadas)
+### ☁️ Cloud & IA
+<img src="https://img.shields.io/badge/Microsoft_Azure_AI_900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud_Computing_Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-</td>
-<td width="50%">
-<br>
+### 🎓 Programas Académicos y Becas
+<img src="https://img.shields.io/badge/Beca_Santander_She_Plus_Tech-EC0000?style=for-the-badge&logo=santander&logoColor=white" />
+<img src="https://img.shields.io/badge/Educación_Dual_ITMX-005696?style=for-the-badge&logo=react&logoColor=white" />
 
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=Sistema-de-Farmacia&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/sistema-de-farmacia)
+### 💻 Technical Skills (HackerRank & Cisco)
+<img src="https://img.shields.io/badge/Python_(Basic)-2E8B57?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_(Basic)-2E8B57?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS_(Basic)-2E8B57?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_Networking_Basics-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" />
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-<br>
-
-[![Proyecto 3](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=Fotos-Galeria&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/fotos-Galeria)
-
-</td>
-<td width="50%">
-<br>
-
-[![Proyecto 4](https://github-readme-stats.vercel.app/api/pin/?username=AlexaDoca58&repo=musicunder.github.io&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/AlexaDoca58/musicunder.github.io)
-
-</td>
-</tr>
-</table>
 </div>
+
+<br>
 
 ---
 
