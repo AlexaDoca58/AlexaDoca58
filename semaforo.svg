@@ -115,7 +115,7 @@
   <rect x="52" y="130" width="54" height="30" rx="5" fill="#041204"/>
   <circle class="gl" cx="79" cy="145" r="12"/>
 
-  <text x="340" y="34" font-family="Georgia,serif" font-size="9" fill="#7ec8a0" text-anchor="middle" letter-spacing="5" opacity="0.7">🌿 TABASCO, MÉXICO 🌿</text>
+  <text x="340" y="34" font-family="Georgia,serif" font-size="9" fill="#7ec8a0" text-anchor="middle" letter-spacing="5" opacity="0.7">🌿 Comalcaco Tabasco 🌿</text>
   <text x="340" y="68" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#e8f5e1" text-anchor="middle" letter-spacing="1">Semáforo</text>
   <text x="340" y="90" font-family="Georgia,serif" font-size="18" font-weight="700" fill="#27ae60" text-anchor="middle" letter-spacing="4">INTELIGENTE</text>
   <path d="M195 97 Q270 92 340 97 Q410 102 485 97" stroke="#27ae60" stroke-width="0.8" fill="none" opacity="0.4"/>
@@ -226,5 +226,5 @@
     <text x="0" y="175" font-family="monospace" font-size="7" fill="#27ae60" opacity="0.9">VEH_03</text>
   </g>
 
-  <text x="664" y="250" font-family="Georgia,serif" font-size="8" fill="#27ae60" text-anchor="end" opacity="0.5">AlexaDoca58 · Comalcalco, Tabasco 🌿</text>
+  <text x="664" y="250" font-family="Georgia,serif" font-size="8" fill="#27ae60" text-anchor="end" opacity="0.5"></text>
 </svg>
