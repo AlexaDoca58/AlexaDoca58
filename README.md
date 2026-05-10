@@ -93,32 +93,31 @@ const Perfil = {
 
 ---
 ---
-
 <div align="center">
   
-## 📜 Certificaciones & Logros
+## 🏆 Inventario de Insignias (Certificaciones)
 
 </div>
 
 <div align="center">
 
-### ☁️ Cloud & IA
-<img src="https://img.shields.io/badge/Microsoft_Azure_AI_900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud_Computing_Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> |
+| :---: | :---: | :---: | :---: |
+| **Cloud Computing Foundations**<br>Google Cloud | **Set Up App Dev Env**<br>Google Cloud | **Prepare Data for ML**<br>Google Cloud | **Load Balancing on CE**<br>Google Cloud |
 
-### 🎓 Programas Académicos y Becas
-<img src="https://img.shields.io/badge/Beca_Santander_She_Plus_Tech-EC0000?style=for-the-badge&logo=santander&logoColor=white" />
-<img src="https://img.shields.io/badge/Educación_Dual_ITMX-005696?style=for-the-badge&logo=react&logoColor=white" />
+| <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/256px-IBM_logo.svg.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/256px-Meta_Platforms_Inc._logo.svg.png" width="70"> |
+| :---: | :---: | :---: | :---: |
+| **Secure Cloud Network**<br>Google Cloud | **Azure AI-900**<br>Microsoft | **Intro Mobile App Dev**<br>Coursera / IBM | **Intro Mobile Dev**<br>Coursera / Meta |
 
-### 💻 Technical Skills (HackerRank & Cisco)
-<img src="https://img.shields.io/badge/Python_(Basic)-2E8B57?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_(Basic)-2E8B57?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS_(Basic)-2E8B57?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Networking_Basics-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" />
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/256px-IBM_logo.svg.png" width="70"> | <img src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-icon.svg" width="70"> | <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Banco_Santander_Logotipo.svg/512px-Banco_Santander_Logotipo.svg.png" width="70"> |
+| :---: | :---: | :---: | :---: |
+| **Data Fundamentals**<br>IBM SkillsBuild | **LFS162: Intro DevOps**<br>Linux Foundation | **Industrial Networking**<br>Cisco | **She Plus Tech**<br>Beca Santander |
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="70"> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="70"> |
+| :---: | :---: | :---: | :---: |
+| **Python **<br>HackerRank | **SQL **<br>HackerRank | **CSS **<br>HackerRank | **Educación Dual**<br>ITMX / ITSC |
 
 </div>
-
-<br>
 
 ---
 
