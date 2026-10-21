@@ -73,12 +73,6 @@ const Perfil = {
 ---
 
 <div align="center">
-    ## Proximo Proyecto
-  <img src="./semaforo.svg" alt="Semáforo Inteligente — Selva Tabasqueña" width="100%"/>
-</div>
----
-
-<div align="center">
   
 ## 🏆 Inventario de Insignias
 
